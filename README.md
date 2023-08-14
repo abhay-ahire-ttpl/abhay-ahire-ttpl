@@ -1,8 +1,7 @@
-<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">🚀 Ready to turn your tech dreams into reality. 💡</p>
+<h3 align="left">🚀 Ready to turn your tech dreams into reality. 💡</h3>
 
 ###
 
